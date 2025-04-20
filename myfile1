@@ -1,0 +1,2 @@
+else:
+print(num, "is prime number")
